@@ -24,10 +24,6 @@ I welcome contributions from the Arduino community! If you have an interesting A
 
 If you have any questions, feedback, or need assistance with any project, please don't hesitate to [open an issue](https://github.com/ahmedkhan58555/Arduino/issues). We're here to help!
 
-## License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 Happy tinkering and exploring the exciting world of Arduino!
 
 ![Arduino](https://www.arduino.cc/logo/Arduino-Logo.png)
