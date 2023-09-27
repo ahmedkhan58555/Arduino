@@ -27,4 +27,4 @@ If you have any questions, feedback, or need assistance with any project, please
 
 Happy tinkering and exploring the exciting world of Arduino!
 
-![Arduino]![images-removebg-preview (1)](https://github.com/ahmedkhan58555/Arduino/assets/102408992/f2e0f451-f867-467e-9a25-34649c335c73)()
+![images-removebg-preview (1)](https://github.com/ahmedkhan58555/Arduino/assets/102408992/f2e0f451-f867-467e-9a25-34649c335c73)
